@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "name": "Engine Repairing",
+      "price": 2200,
+      "time": "1.5-day",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque ad nesciunt perspiciatis atque beatae nihil, sint reprehenderit fugit alias laboriosam ex ab corrupti obcaecati voluptatum est facere velit voluptates nulla!",
+      "img": "https://i.ibb.co/g3Sqjdg/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Replace Tier",
+      "price": 100,
+      "time": "1hr",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque ad nesciunt perspiciatis atque beatae nihil, sint reprehenderit fugit alias laboriosam ex ab corrupti obcaecati voluptatum est facere velit voluptates nulla!",
+      "img": "https://i.ibb.co/qxBV4H3/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Engine Repairing-2",
+      "price": 2100,
+      "time": "2-day",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque ad nesciunt perspiciatis atque beatae nihil, sint reprehenderit fugit alias laboriosam ex ab corrupti obcaecati voluptatum est facere velit voluptates nulla!",
+      "img": "https://i.ibb.co/y6HrZkf/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Engine Repairing-3",
+      "price": 1820,
+      "time": "3-day",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque ad nesciunt perspiciatis atque beatae nihil, sint reprehenderit fugit alias laboriosam ex ab corrupti obcaecati voluptatum est facere velit voluptates nulla!",
+      "img": "https://i.ibb.co/rbWwzfK/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Brake Repairing",
+      "price": 200,
+      "time": "2hr",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque ad nesciunt perspiciatis atque beatae nihil, sint reprehenderit fugit alias laboriosam ex ab corrupti obcaecati voluptatum est facere velit voluptates nulla!",
+      "img": "https://i.ibb.co/BCsZH4k/5.jpg"
+    }
+  ]
